@@ -32,8 +32,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MAB-22&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="150" />
-</p>
+  
 
 ### 🤝 Connect with Me
 
