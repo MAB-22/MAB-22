@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Mirza Abdullah Baig 👋</h1>
-<h3 align="center">BS Cybersecurity Student | Professional Enthusiast 🔐</h3>
-
+<h3 align="center">BS Cybersecurity Student | Breaking Down Networks to Understand How They Break 🔐</h3>
 
 ---
 
@@ -8,7 +7,7 @@
 - 🎓 Currently pursuing a **BS in Cybersecurity**
 - 🔍 Interested in network security, penetration testing & systems administration
 - 🐍 Building (and breaking) things with Python & C++
-- 🌱 Professional enthusiast — always learning, always testing
+- 🌱 Diving into recon and traffic analysis, one packet at a time
 - 📫 Reach me at **mabdullahbaig2005@gmail.com**
 
 ### 🛠️ Tech Stack & Tools
@@ -29,7 +28,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MAB-22&show_icons=true&theme=radical" height="150" />
-  
+ </p>
 
 ### 🤝 Connect with Me
 
