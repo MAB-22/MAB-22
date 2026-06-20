@@ -27,18 +27,11 @@
   <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-### 📌 Featured Projects
-
-> 🚧 Replace these with your real repos — name, link, and a one-line description of what it does.
-
-- **[Project Name](https://github.com/YOUR-USERNAME/project-repo)** — One-line description of what it does and why it matters.
-- **[Project Name](https://github.com/YOUR-USERNAME/project-repo)** — One-line description.
-- **[Project Name](https://github.com/YOUR-USERNAME/project-repo)** — One-line description.
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAB-22&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="150" />
 </p>
 
